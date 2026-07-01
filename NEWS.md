@@ -1,6 +1,6 @@
 # NEWS
 
-## libmodbus 3.2.0 (2026-07-XX)
+## libmodbus 3.2.0 (2026-07-01)
 
 - Add `modbus_proxy()` to bridge two Modbus backends (closes #70).
 - Add termios2 support to allow custom baud rates (RTU).
